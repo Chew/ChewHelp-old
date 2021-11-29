@@ -1,0 +1,6 @@
+[submodule "jdachewtils"]
+	path = jdachewtils
+	url = git@github.com:Chew/JDA-Chewtils.wiki
+[submodule "transmuteit"]
+	path = transmuteit
+	url = git@github.com:ChewMC/TransmuteIt.git
