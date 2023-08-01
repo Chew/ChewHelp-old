@@ -2,7 +2,7 @@
 title: MLB Game Feed Bot
 description: Introduction to the MLB Game Feed Discord bot
 published: true
-date: 2023-08-01T02:22:56.346Z
+date: 2023-08-01T02:31:30.261Z
 tags: bot, discord, mlb
 editor: markdown
 dateCreated: 2023-08-01T02:22:56.346Z
@@ -18,14 +18,14 @@ To get started, add the bot to your server. Next, wait for a game to be active, 
 
 ## Supported Message Types
 - Score Changes
-- Game Advisories (Injury Delay, Pitching changes, etc)
+- Game Advisories (Injury Delay, pitching changes, etc)
 - Inning Changes
 
 ## Commands
 
 Click a command to learn more about it!
 
-- [`/plangame`](/bots/discord/mlb-game-feed/commands/plangame) - Plans a game to be played.
+- [`/plangame`](/bots/discord/mlb-game-feed/commands/plangame) - Plans a game by sending an embed of the upcoming game. Optionally create a thread or a scheduled event! Select a team, then a date, shows up to 25 upcoming games. Optionally pass a sport to find minor league games!
 - [`/startgame [game]`](/bots/discord/mlb-game-feed/commands/startgame) - Starts a game. Select a game from the list, but any gamePk is acceptable. You can grab this from sites like https://mlb.chew.pw to show minor league games. If no games show up, there are no active Major League games.
 - [`/stopgame`](/bots/discord/mlb-game-feed/commands/stopgame) - Stops the currently running game.
 - [`/score`](/bots/discord/mlb-game-feed/commands/score) - Shows you the current score privately.
