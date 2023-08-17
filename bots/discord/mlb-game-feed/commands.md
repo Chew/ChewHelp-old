@@ -2,8 +2,8 @@
 title: Commands
 description: Commands in the MLB Game Feed Discord bot
 published: true
-date: 2023-08-17T20:56:01.613Z
-tags: bot, discord, mlb, commands
+date: 2023-08-17T21:05:53.922Z
+tags: bot, commands, discord, mlb
 editor: markdown
 dateCreated: 2023-08-17T20:56:01.613Z
 ---
@@ -20,6 +20,13 @@ The bot has 6 commands as of now:
 - [`/config`](/bots/discord/mlb-game-feed/commands/config) - A way to tune the bot to your liking per-channel!
 
 ## Permissions
+
+The bot requires these permissions (and why):
+
+- Manage Channels - For `/setinfo`
+- Create Events - For `/plangame`
+- View Channels, Send Messages, Embed Links - For basic bot functionality. *Only required in channels where you intend to run games.*
+- Create Public Threads - For `/plangame`. *Only required in channels where you intend to run the games.*
 
 The bot does NOT do permission checking (except for its own permissions).
 
