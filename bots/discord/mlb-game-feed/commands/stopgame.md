@@ -1,8 +1,8 @@
 ---
-title: /stopgame
+title: /stopgame Command
 description: Stopgame Command for the MLB Game Feed Discord Bot
 published: true
-date: 2023-08-12T19:30:22.168Z
+date: 2023-08-17T21:07:59.050Z
 tags: bot, command, discord, mlb
 editor: markdown
 dateCreated: 2023-08-12T19:30:22.168Z
