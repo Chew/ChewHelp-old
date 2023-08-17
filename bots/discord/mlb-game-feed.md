@@ -2,7 +2,7 @@
 title: MLB Game Feed Bot
 description: Introduction to the MLB Game Feed Discord bot
 published: true
-date: 2023-08-17T20:39:33.367Z
+date: 2023-08-17T20:56:30.804Z
 tags: bot, discord, mlb
 editor: markdown
 dateCreated: 2023-08-01T02:22:56.346Z
@@ -24,13 +24,6 @@ You can learn about watching a game feed [here](/bots/discord/mlb-game-feed/watc
 
 ## Commands
 
-Click a command to learn more about it!
-
-- [`/plangame`](/bots/discord/mlb-game-feed/commands/plangame) - Plans a game by sending an embed of the upcoming game. Optionally create a thread or a scheduled event! Select a team, then a date, shows up to 25 upcoming games. Optionally pass a sport to find minor league games!
-- [`/startgame [game]`](/bots/discord/mlb-game-feed/commands/startgame) - Starts a game. Select a game from the list, but any gamePk is acceptable. You can grab this from sites like https://mlb.chew.pw to show minor league games. If no games show up, there are no active Major League games.
-- [`/stopgame`](/bots/discord/mlb-game-feed/commands/stopgame) - Stops the currently running game.
-- [`/score`](/bots/discord/mlb-game-feed/commands/score) - Shows you the current score privately.
-- [`/setinfo`](/bots/discord/mlb-game-feed/commands/setinfo) - A command to show specific info as a Voice Channel name.
-- [`/config`](/bots/discord/mlb-game-feed/commands/config) - A way to tune the bot to your liking per-channel!
+You can view the commands for the bot [on the commands page](/bots/discord/mlb-game-feed/commands).
 
 Running `/startgame` does not memorize the game, you will have to start it every time a game starts!
