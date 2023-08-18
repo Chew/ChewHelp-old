@@ -2,7 +2,7 @@
 title: Rory Command
 description: Breakdown and description for %^rory
 published: true
-date: 2022-01-18T22:13:39.855Z
+date: 2023-08-18T15:19:24.452Z
 tags: bot, chewbotcca, command, discord
 editor: markdown
 dateCreated: 2022-01-18T22:13:39.855Z
