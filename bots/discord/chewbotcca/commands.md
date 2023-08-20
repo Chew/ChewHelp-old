@@ -2,7 +2,7 @@
 title: Chewbotcca Commands
 description: Commands for Chewbotcca Discord bot
 published: true
-date: 2023-08-20T19:23:02.228Z
+date: 2023-08-20T19:32:06.025Z
 tags: chewbotcca, commands, discord
 editor: markdown
 dateCreated: 2023-08-20T19:23:02.228Z
@@ -77,10 +77,10 @@ The rest of the permissions are optional, but are required if you plan on utiliz
 | [/paste](/bots/discord/chewbotcca/commands/paste) | \[optional: path to discord upload] | Finds or uses provided discord attachment of a text file and uploads it to a pastebin site. Avoids having to download and view manually. | No Special Perms | No Special Perms |
 | [/userstats](/bots/discord/chewbotcca/commands/userstats) | None | Finds amount of users with all user flags (excluding Nitro) and sorts them. | Embed Links | No Special Perms |
 | [/memerator](/bots/discord/chewbotcca/commands/memerator) | <meme/user> \<query> | Finds a Memerator.me meme or user based on query. | Embed Links | No Special Perms |
-| [%^permcheck](/bots/discord/chewbotcca/commands/permcheck) | None | Check Bot permissions to ensure it has everything it needs. Checks all the permissions listed above. | No Special Perms | Manage Server |
 | [/apod](/bots/discord/chewbotcca/commands/apod) | \[optional: mm/dd/yyyy] | Gets the current (or if args, that day's) NASA Astronomy Photo of the Day. | Embed Links | No Special Perms |
-| [%^unsuppress](/bots/discord/chewbotcca/commands/unsuppress) | <message link/channel?+message id> | Unsuppresses an embed for a specified message. Can be just message ID, channel+message ID, or a link to the message, but the message has to be on the server. | Manage Messages | Manage Messages |
-| [%^prefix](/bots/discord/chewbotcca/commands/prefix) | None | Returns a list of valid Chewbotcca prefixes | No Special Perms | No Special Perms |
+| [/unsuppress](/bots/discord/chewbotcca/commands/unsuppress) | <message link/channel?+message id> | Unsuppresses an embed for a specified message. Can be just message ID, channel+message ID, or a link to the message, but the message has to be on the server. | Manage Messages | Manage Messages |
 | [%^tosdr](/bots/discord/chewbotcca/commands/tosdr) | <info/points/docs> \<service name> | Gets information for a \<service> from https://tosdr.org | Embed Links | No Special Perms |
 | [/coinflip](/bots/discord/chewbotcca/commands/coinflip) | None | Flip a coin, very simple! | Embed Links | No Special Perms |
 | [/hangar](/bots/discord/chewbotcca/commands/hangar) | \<search> | Searches Hangar for a specified project. | Embed Links | No Special Perms |
+| [/modrinth](/bots/discord/chewbotcca/commands/modrinth) | \[query] | Searches modrinth.com for a specified project. | No Special Perms | No Special Perms |
+| [/wynncraft](/bots/discord/chewbotcca/commands/wynncraft) | \[guild/player] | Finds player or guild stats for Wynncraft | No Special Perms | No Special Perms |
