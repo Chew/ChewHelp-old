@@ -2,13 +2,13 @@
 title: Rory Command
 description: Breakdown and description for %^rory
 published: true
-date: 2023-08-20T20:18:44.436Z
+date: 2023-08-20T20:29:26.168Z
 tags: bot, chewbotcca, command, discord
 editor: markdown
 dateCreated: 2022-01-18T22:13:39.855Z
 ---
 
-# /rory Command
+# `/rory` Command
 
 The Rory command is the perfect command for viewing pictures of [Rory](https://chew.wiki/view/Rory).
 
