@@ -2,19 +2,15 @@
 title: Rory Command
 description: Breakdown and description for %^rory
 published: true
-date: 2023-08-18T15:19:24.452Z
+date: 2023-08-20T20:18:44.436Z
 tags: bot, chewbotcca, command, discord
 editor: markdown
 dateCreated: 2022-01-18T22:13:39.855Z
 ---
 
-# `%^rory` Command
+# /rory Command
 
-The Rory command is the perfect command for viewing pictures of [Rory](https://wiki.chew.pro/view/Rory).
-
-## Aliases
-
-This command has no aliases.
+The Rory command is the perfect command for viewing pictures of [Rory](https://chew.wiki/view/Rory).
 
 ## `get` Sub-Command
 
@@ -40,7 +36,7 @@ For a text command response, the bot requires Embed Links. As a slash command, t
 
 ## `follow` Sub-Command
 
-This follows the [Rory Fanclub](https://wiki.chew.pro/view/Rory_Fanclub)'s #rory-images channel to the invoked channel.
+This follows the [Rory Fanclub](https://chew.wiki/view/Rory_Fanclub)'s #rory-images channel to the invoked channel.
 
 ### Arguments
 
