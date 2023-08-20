@@ -2,7 +2,7 @@
 title: Chewbotcca for Discord
 description: The main page for Chewbotcca for Discord
 published: true
-date: 2023-08-18T15:20:00.582Z
+date: 2023-08-20T18:22:29.306Z
 tags: bot, chewbotcca, discord
 editor: markdown
 dateCreated: 2022-01-18T22:02:45.429Z
@@ -10,7 +10,7 @@ dateCreated: 2022-01-18T22:02:45.429Z
 
 # Chewbotcca for Discord
 
-Chewbotcca for Discord is back and better than ever!
+Chewbotcca for Discord is back and better than ever! 
 It is completely re-written in Java using the JDA Discord API library.
 
 It aims to be exactly what the [Legacy Discord bot was](https://github.com/Chewbotcca/Discord-Legacy), and hopefully even better!
@@ -25,28 +25,27 @@ The goal of Chewbotcca isn't really to be the "best", its goal is to have featur
 
 ## What can it do?
 
-It's mostly fun commands like `%^roll`ing some dice, getting cats with `%^cat`, and more.
+It's mostly fun commands like [`/roll`](/bots/discord/chewbotcca/commands/roll)ing some dice, getting cats with [`/cat`](/bots/discord/chewbotcca/commands/cat), and more.
 
-However, it can also be used to find information like getting RubyGem information with `%^rubygem`, ironic considering this is a Java bot now.
+However, it can also be used to find information like getting RubyGem information with [`/rubygem`](/bots/discord/commands/rubygem), ironic considering this is a Java bot now.
 
 It also has powerful server info commands,
-for example, you can run `%^sinfo bot` to find all bots on the server, and when they got added,
-being able to find role and member counts (`%^sinfo roles`),
-finding a member by join position (`%^sinfo member [position]`),
-finding boosters and boost time (`%^sinfo boost`),
+for example, you can run [`/serverinfo bots`](/bots/discord/chewbotcca/commands/serverinfo#bots) to find all bots on the server, and when they got added,
+being able to find role and member counts ([`/serverinfo roles`](/bots/discord/chewbotcca/commands/serverinfo#roles)),
+finding a member by join position ([`/serverinfo member [position]`](/bots/discord/chewbotcca/commands/serverinfo#member)),
+finding boosters and boost time ([`/serverinfo boosts`](/bots/discord/chewbotcca/commands/serverinfo#boosts)),
 and more!
 
-There's also commands such as `%^youtube` to find YouTube videos,
-and `%^ghuser` to detail your favorite developers on GitHub.
+There's also commands such as [`/youtube`](/bots/discord/chewbotcca/commands/youtube) to find YouTube videos,
+and [`/github user`](/bots/discord/chewbotcca/commands/github) to detail your favorite developers on GitHub.
 
 I'm always open to suggestions on what to add. Please let me know what you would like to see!
 
 ## Links
 
-You can view commands [here](https://chew.pw/chewbotcca/discord/commands).
+You can view all commands [here](/bots/discord/chewbotcca/commands).
 
-You can add the
-bot [with this link](https://discord.com/api/oauth2/authorize?client_id=604362556668248095&permissions=939879492&scope=bot%20applications.commands)
+You can add the bot [with this link](https://discord.com/api/oauth2/authorize?client_id=604362556668248095&permissions=939879492&scope=bot%20applications.commands).
 
 You can join the Discord server with [this link](https://discord.gg/UjxQ3Bh).
 
