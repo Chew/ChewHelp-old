@@ -2,13 +2,16 @@
 title: Chewbotcca for Discord
 description: The main page for Chewbotcca for Discord
 published: true
-date: 2023-08-20T18:22:29.306Z
+date: 2023-08-21T01:27:22.064Z
 tags: bot, chewbotcca, discord
 editor: markdown
 dateCreated: 2022-01-18T22:02:45.429Z
 ---
 
 # Chewbotcca for Discord
+
+> This site has documentation for the bot and its commands. To learn about his history, see the [page on ChewWiki](https://chew.wiki/view/Chewbotcca_Discord_Bot).
+{.is-info}
 
 Chewbotcca for Discord is back and better than ever! 
 It is completely re-written in Java using the JDA Discord API library.
