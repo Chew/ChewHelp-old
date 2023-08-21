@@ -2,7 +2,7 @@
 title: MLB Game Feed Bot
 description: Introduction to the MLB Game Feed Discord bot
 published: true
-date: 2023-08-17T20:56:30.804Z
+date: 2023-08-21T22:43:37.632Z
 tags: bot, discord, mlb
 editor: markdown
 dateCreated: 2023-08-01T02:22:56.346Z
@@ -18,7 +18,7 @@ This bot allows you to view the live play-by-plays for any MLB.com game. This at
 
 To get started, add the bot to your server. Next, wait for a game to be active, finally, type `/startgame` to see active Major League games.
 
-## Watching a Game Feed
+## How it Works
 
 You can learn about watching a game feed [here](/bots/discord/mlb-game-feed/watching-a-game-feed). You can see hits, game advisories, and more.
 
