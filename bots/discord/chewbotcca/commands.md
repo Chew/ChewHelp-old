@@ -2,7 +2,7 @@
 title: Chewbotcca Commands
 description: Commands for Chewbotcca Discord bot
 published: true
-date: 2023-08-20T19:32:06.025Z
+date: 2023-08-21T01:20:52.158Z
 tags: chewbotcca, commands, discord
 editor: markdown
 dateCreated: 2023-08-20T19:23:02.228Z
@@ -27,6 +27,10 @@ The rest of the permissions are optional, but are required if you plan on utiliz
 - Manage Roles - for `/role` command
 - Manage Nicknames - for `/dehoist` command
 - Manage Webhooks - to view webhook count in `/channelinfo` and to `/rory follow`
+
+## Command List
+
+*Please note: Not all commands have help pages yet! Ones with pages are marked in blue.*
 
 | Command | Args | Description | Bot Permissions | User Permissions |
 | ------- | ---- | ----------- | --------------- | ---------------- |
