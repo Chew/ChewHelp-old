@@ -2,7 +2,7 @@
 title: Chewbotcca for Discord
 description: The main page for Chewbotcca for Discord
 published: true
-date: 2023-08-21T01:27:22.064Z
+date: 2023-09-03T14:10:06.271Z
 tags: bot, chewbotcca, discord
 editor: markdown
 dateCreated: 2022-01-18T22:02:45.429Z
@@ -33,10 +33,10 @@ It's mostly fun commands like [`/roll`](/bots/discord/chewbotcca/commands/roll)i
 However, it can also be used to find information like getting RubyGem information with [`/rubygem`](/bots/discord/commands/rubygem), ironic considering this is a Java bot now.
 
 It also has powerful server info commands,
-for example, you can run [`/serverinfo bots`](/bots/discord/chewbotcca/commands/serverinfo#bots) to find all bots on the server, and when they got added,
-being able to find role and member counts ([`/serverinfo roles`](/bots/discord/chewbotcca/commands/serverinfo#roles)),
-finding a member by join position ([`/serverinfo member [position]`](/bots/discord/chewbotcca/commands/serverinfo#member)),
-finding boosters and boost time ([`/serverinfo boosts`](/bots/discord/chewbotcca/commands/serverinfo#boosts)),
+for example, you can run [`/serverinfo bots`](/bots/discord/chewbotcca/commands/serverinfo#bots-sub-command) to find all bots on the server, and when they got added,
+being able to find role and member counts ([`/serverinfo roles`](/bots/discord/chewbotcca/commands/serverinfo#roles-sub-command)),
+finding a member by join position ([`/serverinfo member [position]`](/bots/discord/chewbotcca/commands/serverinfo#member-sub-command)),
+finding boosters and boost time ([`/serverinfo boosts`](/bots/discord/chewbotcca/commands/serverinfo#boosts-sub-command)),
 and more!
 
 There's also commands such as [`/youtube`](/bots/discord/chewbotcca/commands/youtube) to find YouTube videos,
