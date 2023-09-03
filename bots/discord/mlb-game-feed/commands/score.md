@@ -2,7 +2,7 @@
 title: /score Command
 description: The /score command of the MLB Game Feed Discord bot
 published: true
-date: 2023-08-12T19:25:11.171Z
+date: 2023-09-03T16:38:44.229Z
 tags: bot, command, discord, mlb, score
 editor: markdown
 dateCreated: 2023-08-12T19:25:11.171Z
@@ -10,10 +10,8 @@ dateCreated: 2023-08-12T19:25:11.171Z
 
 # /score Command
 
-The `/score` command is used to privately see the score of a currently running game. You will also see the current inning.
-
-There are plans to add who is on base, as well as potentially the count of the pitches, but this is currently not implemented.
+The `/score` command is used to privately see the score of a currently running game. You will also see the current inning, pitcher, batter, and who's on base.
 
 ## Example
 
-![img](https://cdn.chew.pro/imgs/Ql6ehlL6.png)
+![img](https://cdn.chew.pro/imgs/2jjyM5k.png)
