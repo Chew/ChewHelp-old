@@ -2,7 +2,7 @@
 title: Welcome
 description: Welcome to the website!
 published: true
-date: 2023-08-18T15:15:28.510Z
+date: 2023-09-03T14:03:02.915Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-18T20:53:52.553Z
@@ -17,3 +17,4 @@ The wiki pages are backed up to [Chew/ChewHelp on GitHub](https://github.com/Che
 ## Current Projects Here
 
 - [MLB Game Feed Discord Bot](/bots/discord/mlb-game-feed)
+- [Chewbotcca Discord Bot](/bots/discord/chewbotcca)
