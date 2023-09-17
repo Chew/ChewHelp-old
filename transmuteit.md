@@ -2,7 +2,7 @@
 title: TransmuteIt
 description: ProjectE transmutation for Spigot
 published: true
-date: 2021-11-19T03:59:04.827Z
+date: 2021-11-19T03:59:07.333Z
 tags: plugin, project
 editor: markdown
 dateCreated: 2021-11-19T03:59:04.827Z

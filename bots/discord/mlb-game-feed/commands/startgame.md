@@ -2,8 +2,8 @@
 title: /startgame Command
 description: Description, usage, and examples for the /startgame command for the MLB Game Feed Discord bot
 published: true
-date: 2023-08-17T20:40:22.429Z
-tags: bot, command, discord, game, mlb
+date: 2023-08-17T20:40:24.140Z
+tags: bot, command, discord, mlb, game
 editor: markdown
 dateCreated: 2023-08-17T20:03:25.403Z
 ---

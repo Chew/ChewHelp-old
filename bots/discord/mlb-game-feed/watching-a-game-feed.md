@@ -2,7 +2,7 @@
 title: Watching a Game Feed
 description: See examples and usage of how running a game works for the MLB Game Feed Discord bot
 published: true
-date: 2023-08-17T20:57:14.400Z
+date: 2023-08-17T20:57:16.080Z
 tags: bot, discord, mlb
 editor: markdown
 dateCreated: 2023-08-17T20:36:57.678Z

@@ -2,7 +2,7 @@
 title: MLB Game Feed Bot
 description: Introduction to the MLB Game Feed Discord bot
 published: true
-date: 2023-08-21T22:43:37.632Z
+date: 2023-08-21T22:43:41.430Z
 tags: bot, discord, mlb
 editor: markdown
 dateCreated: 2023-08-01T02:22:56.346Z

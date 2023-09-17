@@ -2,7 +2,7 @@
 title: Wynncraft Command
 description: Breakdown and description for the Wynncraft command for Chewbotcca Discord bot
 published: true
-date: 2023-08-21T01:17:43.353Z
+date: 2023-08-21T01:17:44.960Z
 tags: bot, chewbotcca, command, discord
 editor: markdown
 dateCreated: 2023-08-21T01:17:43.353Z

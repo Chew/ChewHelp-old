@@ -2,8 +2,8 @@
 title: Chewbotcca for Discord
 description: The main page for Chewbotcca for Discord
 published: true
-date: 2023-09-03T14:10:06.271Z
-tags: bot, chewbotcca, discord
+date: 2023-09-03T14:10:07.730Z
+tags: chewbotcca, discord, bot
 editor: markdown
 dateCreated: 2022-01-18T22:02:45.429Z
 ---

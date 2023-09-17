@@ -2,7 +2,7 @@
 title: /plangame Command
 description: Description, usage, and examples about the /plangame command for the MLB Game Feed Discord bot.
 published: true
-date: 2023-08-17T19:58:56.118Z
+date: 2023-08-17T19:58:59.202Z
 tags: bot, command, discord, mlb, plangame
 editor: markdown
 dateCreated: 2023-08-17T19:58:56.118Z

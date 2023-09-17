@@ -2,7 +2,7 @@
 title: /setinfo Command
 description: Description and examples for the /setinfo command
 published: true
-date: 2023-08-17T19:51:43.650Z
+date: 2023-08-17T19:51:47.549Z
 tags: command, discord, mlb, setinfo
 editor: markdown
 dateCreated: 2023-08-17T19:51:43.650Z

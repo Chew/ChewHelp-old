@@ -2,8 +2,8 @@
 title: Commands
 description: Commands in the MLB Game Feed Discord bot
 published: true
-date: 2023-08-17T21:05:53.922Z
-tags: bot, commands, discord, mlb
+date: 2023-08-17T21:05:56.891Z
+tags: bot, discord, mlb, commands
 editor: markdown
 dateCreated: 2023-08-17T20:56:01.613Z
 ---

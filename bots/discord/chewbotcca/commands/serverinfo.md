@@ -2,7 +2,7 @@
 title: Serverinfo Command
 description: Breakdown and description for the serverinfo command for the Chewbotcca Discord bot
 published: true
-date: 2023-09-03T14:40:58.182Z
+date: 2023-09-03T14:40:59.746Z
 tags: bot, chewbotcca, command, discord
 editor: markdown
 dateCreated: 2023-08-26T02:33:10.533Z

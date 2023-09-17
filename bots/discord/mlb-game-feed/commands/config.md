@@ -2,7 +2,7 @@
 title: /config Command
 description: Description, usage, and examples of the config command for the MLB Game Feed Discord bot.
 published: true
-date: 2023-08-17T20:47:32.744Z
+date: 2023-08-17T20:47:35.785Z
 tags: bot, command, discord, mlb, config
 editor: markdown
 dateCreated: 2023-08-17T20:47:32.744Z
